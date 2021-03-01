@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Instant Tracking 3D Model.unity
+    guid: 2287839cf66f4470b91ab6b024857e9e
   m_configObjects: {}
